@@ -53,6 +53,6 @@ The above is the output of the command. Now using the clue they gave us on the h
 
 Was the command I used, and the output was `nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu`
 
-With that password, we can now log into [Natas10](https://github.com/ProDigySML/Security-Writeups/Natas/Natas10 "Natas 10")
+With that password, we can now log into [Natas10](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas10 "Natas 10")
 
 The passthru command in the challenge: `passthru("grep -i $key dictionary.txt");`

@@ -81,4 +81,4 @@ This spits out an encrypted array, which we can add into out cookie, to make the
 
 `The password for natas12 is EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3`
 
-With that password, we can now log into [Natas12](https://github.com/ProDigySML/Security-Writeups/Natas/Natas12 "Natas 12")
+With that password, we can now log into [Natas12](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas12 "Natas 12")

@@ -20,6 +20,6 @@ This gave me a password:
 `DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe`
 
 
-With that password, we can now log into [Natas8](https://github.com/ProDigySML/Security-Writeups/Natas/Natas8 "Natas 8")
+With that password, we can now log into [Natas8](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas8 "Natas 8")
 
 PS. We can also leak the source code of the pages! :D

@@ -13,4 +13,4 @@ After sending the request, in the source code, we can see that access has been g
 
 `Access granted. The password for natas5 is iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq`
 
-With that password, we can now log into [Natas5](https://github.com/ProDigySML/Security-Writeups/Natas/Natas5 "Natas 5")
+With that password, we can now log into [Natas5](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas5 "Natas 5")

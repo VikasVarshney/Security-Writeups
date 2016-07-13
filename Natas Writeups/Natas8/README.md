@@ -47,4 +47,4 @@ This spit out that the original secret was `oubWYf2kBq`. When puttign the secret
 
 We got the pasword! :D
 
-With that password, we can now log into [Natas9](https://github.com/ProDigySML/Security-Writeups/Natas/Natas9 "Natas 9")
+With that password, we can now log into [Natas9](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas9 "Natas 9")

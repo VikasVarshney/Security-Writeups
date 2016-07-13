@@ -17,4 +17,4 @@ Due to a poor .htaccess file, and the absence of an index file, we can view whic
 
 `natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14`
 
-With that password, we can now log into [Natas3](https://github.com/ProDigySML/Security-Writeups/Natas/Natas3 "Natas 3")
+With that password, we can now log into [Natas3](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas3 "Natas 3")

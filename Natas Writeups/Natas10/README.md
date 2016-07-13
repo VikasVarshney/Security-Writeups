@@ -27,4 +27,4 @@ The output of the command is:
 
 `U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK`
 
-With that password, we can now log into [Natas11](https://github.com/ProDigySML/Security-Writeups/Natas/Natas11 "Natas 11")
+With that password, we can now log into [Natas11](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas11 "Natas 11")

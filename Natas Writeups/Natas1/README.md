@@ -11,4 +11,4 @@ Doing so, we find the password for natas2:
 `<!--The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi -->`
 
 
-With that password, we can now log into [Natas2](https://github.com/ProDigySML/Security-Writeups/Natas/Natas2 "Natas 2")
+With that password, we can now log into [Natas2](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas2 "Natas 2")

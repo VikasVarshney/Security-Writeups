@@ -18,4 +18,4 @@ We copy the secret and go back to the inital natas 6 screen, and put the secret 
 `Access granted. The password for natas7 is 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 `
 
 
-With that password, we can now log into [Natas7](https://github.com/ProDigySML/Security-Writeups/Natas/Natas7 "Natas 7")
+With that password, we can now log into [Natas7](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas7 "Natas 7")

@@ -16,4 +16,4 @@ From the `robots.txt` file, we find that a `s3cr3t` directory exists. Lets go in
 `natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ`
 
 
-With that password, we can now log into [Natas4](https://github.com/ProDigySML/Security-Writeups/Natas/Natas4 "Natas 4")
+With that password, we can now log into [Natas4](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas4 "Natas 4")

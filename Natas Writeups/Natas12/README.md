@@ -21,4 +21,4 @@ I followed the link, and used the RCE to leak the password.
 
 `jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY`
 
-With that password, we can now log into [Natas13](https://github.com/ProDigySML/Security-Writeups/tree/master/Natas%20Writeups/Natas13 "Natas 13")
+With that password, we can now log into [Natas13](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas13 "Natas 13")

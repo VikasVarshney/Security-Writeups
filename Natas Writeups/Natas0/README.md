@@ -12,4 +12,4 @@ The challenge prompts us to find a password for the next level on this page. So 
 
 ![Image for Natas0 Comment page](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas0/Natas0Comment.PNG "Natas 0 Comment")
 
-With that password, we can now log into [Natas1](https://github.com/ProDigySML/Security-Writeups/Natas/Natas1 "Natas 1")
+With that password, we can now log into [Natas1](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas1 "Natas 1")

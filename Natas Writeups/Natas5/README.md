@@ -13,4 +13,4 @@ After seeing that, I was confirmed that all I had to do was change the value of 
 
 `Access granted. The password for natas6 is aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1`
 
-With that password, we can now log into [Natas6](https://github.com/ProDigySML/Security-Writeups/Natas/Natas6 "Natas 6")
+With that password, we can now log into [Natas6](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas6 "Natas 6")
