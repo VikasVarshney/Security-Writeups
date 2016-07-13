@@ -2,7 +2,7 @@
 
 When accessing natas 0, we face an HTTP authentication page. 
 
-![Image for HTTP Auth page](https://github.com/ProDigySML/Security-Writeups/Natas/Natas0/Natas0Auth.PNG "HTTP Auth page")
+![Image for HTTP Auth page](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas0/Natas0Auth.PNG "HTTP Auth page")
 
 After seeing this page, we add in the authentication details for natas 0 (as given in the natas websiite). 
 
@@ -10,6 +10,6 @@ The challenge prompts us to find a password for the next level on this page. So 
 
 `<!--The password for natas1 is gtVrDuiDfck831PqWsLEZy5gyDz1clto -->`
 
-![Image for Natas0 Comment page](https://github.com/ProDigySML/Security-Writeups/Natas/Natas0/Natas0Comment.PNG "Natas 0 Comment")
+![Image for Natas0 Comment page](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas0/Natas0Comment.PNG "Natas 0 Comment")
 
 With that password, we can now log into [Natas1](https://github.com/ProDigySML/Security-Writeups/Natas/Natas1 "Natas 1")

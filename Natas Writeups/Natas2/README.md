@@ -7,7 +7,7 @@ We use the password from the previous challenge to log into Natas 2. After loggi
 
 We look into the source code, and find that the developers haven't left any clues for us :(. 
 
-![Natas 2 Source](https://github.com/ProDigySML/Security-Writeups/Natas/Natas2/Natas2Source.PNG "Natas 2 Source")
+![Natas 2 Source](https://github.com/ProDigySML/Security-Writeups/blob/master/Natas%20Writeups/Natas2/Natas2Source.PNG "Natas 2 Source")
 
 There we can see that there is an image (cannot see on the GUI end). The image is stored in a directory called files (a little suspicious). We open the image (it's a 1x1 pixel image). We adjust the url to open the files directory:
 
